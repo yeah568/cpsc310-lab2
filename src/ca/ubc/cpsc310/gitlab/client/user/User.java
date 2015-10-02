@@ -7,6 +7,7 @@ import ca.ubc.cpsc310.gitlab.client.products.ProductItem;
 
 public class User implements IUser {
 	//Comment
+	//Not comment 2
 	
 	private static final long serialVersionUID = -4678920906536621479L;
 	
